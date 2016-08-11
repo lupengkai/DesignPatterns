@@ -10,7 +10,7 @@ public class Creator2 extends AbstractCreator {
     }
 
     @Override
-    public AbstractProductA createProductB() {
+    public AbstractProductB createProductB() {
         return new ProductB2();
     }
 }
