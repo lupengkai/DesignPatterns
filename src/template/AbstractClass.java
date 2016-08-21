@@ -8,7 +8,7 @@ public abstract class AbstractClass {
 
     protected abstract void doAnything();
 
-    public final void templateMethod() {
+    public final void templateMethod() {//this方法多态 只有方法有多态 属性没有 得看具体引用
         this.doSomething();
         this.doAnything();
     }
