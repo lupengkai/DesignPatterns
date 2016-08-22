@@ -1,4 +1,4 @@
-package abstract_factory;
+package abstractFactory;
 
 /**
  * Created by tage on 8/7/16.

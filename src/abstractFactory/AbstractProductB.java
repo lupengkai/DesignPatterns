@@ -1,9 +1,9 @@
-package abstract_factory;
+package abstractFactory;
 
 /**
  * Created by tage on 8/7/16.
  */
-public abstract class AbstractProductA {
+public abstract class AbstractProductB {
     //每个产品共有的方法
     public void shareMehtod() {
 
