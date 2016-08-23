@@ -1,4 +1,4 @@
-package chanOfResponsibility;
+package chainOfResponsibility;
 
 /**
  * Created by tage on 8/22/16.

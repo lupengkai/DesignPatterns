@@ -1,9 +1,9 @@
-package chanOfResponsibility;
+package chainOfResponsibility;
 
 /**
  * Created by tage on 8/22/16.
  */
-public class ConcreteHandler2 extends Handler {
+public class ConcreteHandler1 extends Handler {
     @Override
     protected Level getHandlerLevel() {
         //设置处理级别
