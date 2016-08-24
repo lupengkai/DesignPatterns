@@ -10,11 +10,11 @@ public class Singleton {//饿汉
 
     }
 
-    public Singleton getSingleton() {
-        return singleton;
-    }
-
     public static void doSomething() {
 
+    }
+
+    public Singleton getSingleton() {
+        return singleton;
     }
 }
